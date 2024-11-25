@@ -5,4 +5,12 @@
 
 # 使用方法
 ```shell
-$ transition [文件夹路径]"
+# linux系统
+$ transition [文件夹路径]
+
+# mac系统
+$ transition [文件夹路径]
+
+# win系统
+$ transition.exe [文件夹路径]
+
